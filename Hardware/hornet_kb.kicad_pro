@@ -229,7 +229,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -407,6 +407,15 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "c35084ab-104c-4a4c-9388-a839989b8e3d",
+      "Root"
+    ],
+    [
+      "20e65fb9-037d-41f9-856c-d800ba40b4b1",
+      "Power Management"
+    ]
+  ],
   "text_variables": {}
 }

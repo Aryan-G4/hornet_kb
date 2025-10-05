@@ -1,0 +1,23 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f2dd7ef8-81f3-4c38-b26a-872e98c852a4")
+	(paper "A4")
+	(title_block
+		(title "Hornet Wireless Split Keyboard")
+		(rev "Rev1")
+	)
+	(lib_symbols)
+	(text "This is where the Qi2.2 25W reciever will go along \nwith power converters, LDOs, buck converters and \na batteries for both keyboards"
+		(exclude_from_sim no)
+		(at 179.324 173.228 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left)
+		)
+		(uuid "bcc1a8a1-2c0a-4821-993c-6b5da8e7440c")
+	)
+)
