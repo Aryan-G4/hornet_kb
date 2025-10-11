@@ -2044,7 +2044,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 104.14) (xy 149.86 104.14)
+			(xy 139.7 106.68) (xy 148.59 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2123,7 +2123,7 @@
 		(uuid "f84e5263-ca16-48d6-834a-1d685040a141")
 	)
 	(label "BATT_NTC"
-		(at 140.97 104.14 0)
+		(at 139.7 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2963,7 +2963,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 154.94 104.14 0)
+		(at 153.67 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2972,7 +2972,7 @@
 		(fields_autoplaced yes)
 		(uuid "b38cce50-7fae-4d62-91aa-3e525140c0db")
 		(property "Reference" "J2"
-			(at 157.48 102.8699 0)
+			(at 156.21 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2981,7 +2981,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 157.48 105.4099 0)
+			(at 156.21 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2990,7 +2990,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 104.14 0)
+			(at 153.67 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2999,7 +2999,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 104.14 0)
+			(at 153.67 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3008,7 +3008,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 154.94 104.14 0)
+			(at 153.67 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3173,7 +3173,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 149.86 101.6 0)
+		(at 148.59 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3182,7 +3182,7 @@
 		(fields_autoplaced yes)
 		(uuid "d00874b5-8899-43a4-8382-266f99d17a5e")
 		(property "Reference" "#PWR014"
-			(at 149.86 105.41 0)
+			(at 148.59 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3191,7 +3191,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 149.86 96.52 0)
+			(at 148.59 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3199,7 +3199,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 101.6 0)
+			(at 148.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3208,7 +3208,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 101.6 0)
+			(at 148.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3217,7 +3217,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 149.86 101.6 0)
+			(at 148.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3374,7 +3374,7 @@
 	)
 	(symbol
 		(lib_id "power:-BATT")
-		(at 149.86 106.68 180)
+		(at 148.59 109.22 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3383,7 +3383,7 @@
 		(fields_autoplaced yes)
 		(uuid "f778beb7-5c57-49ee-b053-4f8fa97e0e3f")
 		(property "Reference" "#PWR015"
-			(at 149.86 102.87 0)
+			(at 148.59 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3392,7 +3392,7 @@
 			)
 		)
 		(property "Value" "-BATT"
-			(at 149.86 111.76 0)
+			(at 148.59 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3400,7 +3400,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 106.68 0)
+			(at 148.59 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3409,7 +3409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 106.68 0)
+			(at 148.59 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3418,7 +3418,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-BATT\""
-			(at 149.86 106.68 0)
+			(at 148.59 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
