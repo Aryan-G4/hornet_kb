@@ -17489,6 +17489,48 @@
 		)
 	)
 	(sheet
+		(at 177.8 161.29)
+		(size 34.29 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c7a30bd-1c2f-4bc6-8f52-c45519217f8c")
+		(property "Sheetname" "Wireless_BLE"
+			(at 177.8 160.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wireless_BLE.kicad_sch"
+			(at 177.8 189.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hornet_kb"
+				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 179.07 238.76)
 		(size 41.91 36.83)
 		(exclude_from_sim no)

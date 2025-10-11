@@ -620,6 +620,10 @@
     [
       "cf418548-ab3b-4316-9c47-168a81bd3af0",
       "Button matrix"
+    ],
+    [
+      "8c7a30bd-1c2f-4bc6-8f52-c45519217f8c",
+      "Wireless_BLE"
     ]
   ],
   "text_variables": {}
