@@ -14994,6 +14994,28 @@
 			)
 		)
 	)
+	(global_label "nrf_ANT"
+		(shape input)
+		(at 381 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee75e4e9-2acf-453c-b6f1-78f9e74eee37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 391.0004 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "L_COL_2"
 		(shape input)
 		(at 46.99 270.51 180)

@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "d34febbb-c697-4480-8fe8-96209a98de94")
+	(uuid "683d7beb-1575-4aa9-9527-6ae478b4ab71")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -601,7 +601,7 @@
 		)
 		(uuid "bc8fd639-7a61-4650-bd91-8212193e1ee3")
 	)
-	(global_label "ANT"
+	(global_label "nrf_ANT"
 		(shape input)
 		(at 96.52 101.6 180)
 		(fields_autoplaced yes)
@@ -613,7 +613,7 @@
 		)
 		(uuid "c5f1945b-8a83-4963-9303-48ab44075bcf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.1481 101.6 0)
+			(at 86.5196 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
