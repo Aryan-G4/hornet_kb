@@ -358,6 +358,17 @@
 		)
 		(uuid "1b2a0f36-77d4-48b7-8d13-ec97027ca102")
 	)
+	(text "For the Left hand side (peripheral)\nI want all letters and numbers (including B)\nFunction rows F1-F6\nesc TAB, CAPS, Shift\nBottom row : ctrl,win,alt,spacebar (potential backspace)\nall key sizes should be able to be found in a normal keycap set (excluding spacebar)"
+		(exclude_from_sim no)
+		(at 19.304 202.438 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left)
+		)
+		(uuid "2c618a5b-7f99-4216-b9e4-3569f03fff90")
+	)
 	(text "On the right hand side (central) we want the following keys:\n- All common right hand letters and numbers[7-0] (16)\n- Common punct. and typing function (space, enter, comma, etc) (16)\n- Arrow keys (4)\n- Function keys [7-12] (6)\n- Advanced Function [PU,PD,INS,DEL,HOME] (5)\n\nTOTAL ~47-50 keys RHS, ideally a 6x8 grid"
 		(exclude_from_sim no)
 		(at 405.13 237.49 0)
