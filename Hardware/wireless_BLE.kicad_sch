@@ -1176,7 +1176,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f84ae991-3e2e-4da9-aa12-db001e0bf5fc")
-		(property "Reference" "IFA?"
+		(property "Reference" "IFA1"
 			(at 175.006 87.376 90)
 			(effects
 				(font
@@ -1229,7 +1229,7 @@
 		(instances
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/8c7a30bd-1c2f-4bc6-8f52-c45519217f8c"
-					(reference "IFA?")
+					(reference "IFA1")
 					(unit 1)
 				)
 			)
