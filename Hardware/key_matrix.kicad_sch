@@ -370,7 +370,7 @@
 		)
 		(uuid "7d65757d-820a-4204-9b43-d90b3981f956")
 	)
-	(text "RHS\n"
+	(text "LHS-CENTRAL KEYBOARD"
 		(exclude_from_sim no)
 		(at 207.772 25.908 0)
 		(effects
