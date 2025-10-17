@@ -11646,7 +11646,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2 0)
 			(end 2 0)
@@ -13587,7 +13587,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2 0)
 			(end 2 0)
