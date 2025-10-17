@@ -2879,7 +2879,7 @@
 		(at 198.12 78.232 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1.778 1.778)
 			)
 			(justify left)
 		)
@@ -6129,7 +6129,7 @@
 		(dnp no)
 		(uuid "5aa88306-0ab7-4506-a2dd-60bfd5c776cf")
 		(property "Reference" "C25"
-			(at 173.736 122.682 0)
+			(at 172.974 121.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,7 +6137,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 173.736 120.142 0)
+			(at 172.974 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
