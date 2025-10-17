@@ -409,18 +409,6 @@
 		(uuid "00a5e681-87a7-4753-9d0a-c651c1981289")
 	)
 	(junction
-		(at 255.27 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02bad9f5-71d4-4c85-8a56-f9287f188003")
-	)
-	(junction
-		(at 148.59 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02bc2971-0a13-45e2-8cce-d8c229fa2609")
-	)
-	(junction
 		(at 194.31 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -451,28 +439,10 @@
 		(uuid "1400a06c-0bf9-492a-acdd-a2a0915cf2c1")
 	)
 	(junction
-		(at 240.03 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a442359-8981-47e6-ae86-89bd096d9d52")
-	)
-	(junction
 		(at 163.83 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d1d0e54-9fa1-4d1c-8625-a4f04dee79f9")
-	)
-	(junction
-		(at 163.83 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1fae636f-46df-4e06-a0dc-85258f7e30ee")
-	)
-	(junction
-		(at 245.11 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2016d16a-a7a1-4d16-9530-9a32d62de38b")
 	)
 	(junction
 		(at 245.11 128.27)
@@ -517,12 +487,6 @@
 		(uuid "35084b23-aa91-47f4-8470-22e572cec481")
 	)
 	(junction
-		(at 209.55 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3cde878d-1864-4dbb-9ec2-5c771c8149d9")
-	)
-	(junction
 		(at 179.07 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -553,12 +517,6 @@
 		(uuid "489127b7-1d60-4285-8071-b2a454694d19")
 	)
 	(junction
-		(at 229.87 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "496eae44-9d3c-4a9b-ad82-b59a634e50d2")
-	)
-	(junction
 		(at 214.63 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -577,22 +535,10 @@
 		(uuid "4c424643-9e74-4d79-9fdd-7550bdac8839")
 	)
 	(junction
-		(at 260.35 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d7d0dde-1a39-4e00-aec5-21f8a9e96fec")
-	)
-	(junction
 		(at 209.55 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "551e02f6-f41e-4131-b1a4-2522bc7c6d09")
-	)
-	(junction
-		(at 214.63 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5bbcff1e-c7da-4110-973c-eadfedbf8b70")
 	)
 	(junction
 		(at 199.39 87.63)
@@ -623,12 +569,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b29a355-a26f-43b8-9bdc-db02feed22cf")
-	)
-	(junction
-		(at 194.31 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6dab4be1-6859-41f6-b757-7f40225e5f16")
 	)
 	(junction
 		(at 163.83 74.93)
@@ -683,12 +623,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "866e8bc9-307f-49ab-a642-fad44211a498")
-	)
-	(junction
-		(at 179.07 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "88e02713-2e0f-4ab9-a835-a33374c78a24")
 	)
 	(junction
 		(at 168.91 128.27)
@@ -763,12 +697,6 @@
 		(uuid "c72da2fa-f687-49b6-8792-a388ab9e2e09")
 	)
 	(junction
-		(at 184.15 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c82d86bf-e464-466b-b008-0f771c0cabdc")
-	)
-	(junction
 		(at 260.35 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -779,12 +707,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cbd33aec-c448-40d9-8d02-3a7ed4435a41")
-	)
-	(junction
-		(at 224.79 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce0b679b-0326-437e-ae1c-3d1c4e8320af")
 	)
 	(junction
 		(at 240.03 95.25)
@@ -805,12 +727,6 @@
 		(uuid "d44771f8-a28e-4e51-8391-3b33ae2b8a87")
 	)
 	(junction
-		(at 168.91 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9bf2fc7-2948-40c4-b9b5-c81bf2c0d868")
-	)
-	(junction
 		(at 179.07 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -827,12 +743,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f27df4e1-7071-41b0-bd00-5e3a14203408")
-	)
-	(junction
-		(at 199.39 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f408428c-e1f6-436c-a690-3d8d119e0b86")
 	)
 	(wire
 		(pts
@@ -856,16 +766,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 168.91) (xy 184.15 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04024535-ee9e-4dcf-bb16-7bc9831f1e27")
-	)
-	(wire
-		(pts
 			(xy 148.59 95.25) (xy 148.59 115.57)
 		)
 		(stroke
@@ -876,26 +776,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 135.89) (xy 255.27 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1237be44-c682-4577-93f2-c7b7e66e89f9")
-	)
-	(wire
-		(pts
-			(xy 163.83 135.89) (xy 163.83 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12b04ae1-9210-4942-a118-5c961ec8cf87")
-	)
-	(wire
-		(pts
 			(xy 163.83 115.57) (xy 163.83 135.89)
 		)
 		(stroke
@@ -903,26 +783,6 @@
 			(type default)
 		)
 		(uuid "12fcd29c-16f2-49fb-87db-a99ae7041159")
-	)
-	(wire
-		(pts
-			(xy 224.79 135.89) (xy 224.79 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "149c0e1f-b896-4558-a7a0-fdf8d1f83529")
-	)
-	(wire
-		(pts
-			(xy 199.39 168.91) (xy 214.63 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14cbc1b7-ac2d-409d-ad9a-fbd7d0514974")
 	)
 	(wire
 		(pts
@@ -963,16 +823,6 @@
 			(type default)
 		)
 		(uuid "20436ff0-db9e-4c2f-b1f9-754703884367")
-	)
-	(wire
-		(pts
-			(xy 229.87 168.91) (xy 245.11 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22cc50b0-89c9-4e6f-b8e2-570e2a91db8c")
 	)
 	(wire
 		(pts
@@ -1076,26 +926,6 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 168.91) (xy 260.35 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ec20caf-d948-4490-8253-cf1a000a465e")
-	)
-	(wire
-		(pts
-			(xy 179.07 135.89) (xy 179.07 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fce9752-61f4-41f4-8188-f7e583088b46")
-	)
-	(wire
-		(pts
 			(xy 160.02 55.88) (xy 163.83 55.88)
 		)
 		(stroke
@@ -1143,16 +973,6 @@
 			(type default)
 		)
 		(uuid "49f3005f-93ab-4e11-bd05-14eb6b4d7993")
-	)
-	(wire
-		(pts
-			(xy 214.63 168.91) (xy 229.87 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a1a1e59-40a7-4264-b385-af3d35cecb7b")
 	)
 	(wire
 		(pts
@@ -1406,16 +1226,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 135.89) (xy 209.55 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7fe66fe1-ca2d-4ac7-8907-ada247cb30e0")
-	)
-	(wire
-		(pts
 			(xy 168.91 107.95) (xy 184.15 107.95)
 		)
 		(stroke
@@ -1566,16 +1376,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 168.91) (xy 264.16 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a980995e-8717-4c16-b239-e6c9a1daf023")
-	)
-	(wire
-		(pts
 			(xy 153.67 128.27) (xy 168.91 128.27)
 		)
 		(stroke
@@ -1593,26 +1393,6 @@
 			(type default)
 		)
 		(uuid "adb950cd-eabd-437c-aef8-366711d7fa02")
-	)
-	(wire
-		(pts
-			(xy 240.03 135.89) (xy 240.03 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afa84a06-8100-4c9f-9ef0-ebc32a7f00fa")
-	)
-	(wire
-		(pts
-			(xy 194.31 135.89) (xy 194.31 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0350ff1-8c95-4f76-a512-1fe44d1fb6c9")
 	)
 	(wire
 		(pts
@@ -1673,26 +1453,6 @@
 			(type default)
 		)
 		(uuid "c750d5d0-3b56-4d2a-8cb8-4e336a7a77b2")
-	)
-	(wire
-		(pts
-			(xy 184.15 168.91) (xy 199.39 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb2df0ae-7db1-4bbd-a486-f498622fdeec")
-	)
-	(wire
-		(pts
-			(xy 153.67 168.91) (xy 168.91 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccd63a82-954c-4fa4-984d-e1a884371c6c")
 	)
 	(wire
 		(pts
@@ -1943,16 +1703,6 @@
 			(type default)
 		)
 		(uuid "fa88fe2f-a5e4-463b-b698-92e88e6ba1fa")
-	)
-	(wire
-		(pts
-			(xy 148.59 135.89) (xy 148.59 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffb38cde-f2ef-4762-bdd2-f636e5909e2b")
 	)
 	(image
 		(at 257.81 266.7)
@@ -39712,28 +39462,6 @@
 			)
 		)
 	)
-	(global_label "R_ROW_5"
-		(shape output)
-		(at 264.16 168.91 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cebb0f81-9549-4ce4-b5b9-b492bf9c0ae3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.6118 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "R_ROW_3"
 		(shape output)
 		(at 264.16 128.27 0)
@@ -39802,74 +39530,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 212.09 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "034349ab-478f-4d00-b9e2-ce92310bb1a9")
-		(property "Reference" "SW39"
-			(at 212.09 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_CTRL"
-			(at 212.09 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 212.09 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8b838c8e-76f3-457d-a2ee-6f31d5b69c0a")
-		)
-		(pin "1"
-			(uuid "6dba4b81-9e22-453b-b516-45b48df1d5bf")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 166.37 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -39886,7 +39546,7 @@
 				)
 			)
 		)
-		(property "Value" "F8"
+		(property "Value" "`"
 			(at 166.37 52.07 0)
 			(effects
 				(font
@@ -39954,7 +39614,7 @@
 				)
 			)
 		)
-		(property "Value" "DEL"
+		(property "Value" "5"
 			(at 242.57 52.07 0)
 			(effects
 				(font
@@ -40110,7 +39770,7 @@
 				)
 			)
 		)
-		(property "Value" "7"
+		(property "Value" "M0"
 			(at 151.13 72.39 0)
 			(effects
 				(font
@@ -40266,7 +39926,7 @@
 				)
 			)
 		)
-		(property "Value" "-/_"
+		(property "Value" "E"
 			(at 212.09 72.39 0)
 			(effects
 				(font
@@ -40317,94 +39977,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 229.87 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1c0ee9ab-649d-411e-ae3f-b96264ef75c9")
-		(property "Reference" "D42"
-			(at 232.41 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 232.41 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 229.87 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 229.87 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 229.87 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 229.87 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "966079a0-bbd1-4ef4-b42e-7e108653452b")
-		)
-		(pin "1"
-			(uuid "4334ce51-c803-4ea2-9494-c7ce147da4b0")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 227.33 118.11 0)
 		(unit 1)
@@ -40422,7 +39994,7 @@
 				)
 			)
 		)
-		(property "Value" "'"
+		(property "Value" "V"
 			(at 227.33 113.03 0)
 			(effects
 				(font
@@ -40843,7 +40415,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "5"
 			(at 247.65 64.7699 90)
 			(effects
 				(font
@@ -40930,7 +40502,7 @@
 				)
 			)
 		)
-		(property "Value" "H"
+		(property "Value" "M2"
 			(at 151.13 113.03 0)
 			(effects
 				(font
@@ -40985,9 +40557,9 @@
 		(at 257.81 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "377c9d3f-5d01-406b-b087-1f7040623cf4")
 		(property "Reference" "SW46"
@@ -40998,7 +40570,7 @@
 				)
 			)
 		)
-		(property "Value" "HOME"
+		(property "Value" "NA"
 			(at 257.81 113.03 0)
 			(effects
 				(font
@@ -41066,7 +40638,7 @@
 				)
 			)
 		)
-		(property "Value" "["
+		(property "Value" "F"
 			(at 227.33 92.71 0)
 			(effects
 				(font
@@ -41222,7 +40794,7 @@
 				)
 			)
 		)
-		(property "Value" "Y"
+		(property "Value" "M1"
 			(at 151.13 92.71 0)
 			(effects
 				(font
@@ -41290,7 +40862,7 @@
 				)
 			)
 		)
-		(property "Value" "8"
+		(property "Value" "TAB"
 			(at 166.37 72.39 0)
 			(effects
 				(font
@@ -41429,94 +41001,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 199.39 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45dc7140-bf57-4c10-b4fd-e741dead8604")
-		(property "Reference" "D36"
-			(at 201.93 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 199.39 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 199.39 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 199.39 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 199.39 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 199.39 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b4d17954-8726-43b3-8cc8-30b96b0396e8")
-		)
-		(pin "1"
-			(uuid "0ca45078-1d40-4043-add6-38d6a3478a3a")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 242.57 77.47 0)
 		(unit 1)
@@ -41534,7 +41018,7 @@
 				)
 			)
 		)
-		(property "Value" "BS"
+		(property "Value" "T"
 			(at 242.57 72.39 0)
 			(effects
 				(font
@@ -41602,7 +41086,7 @@
 				)
 			)
 		)
-		(property "Value" "/"
+		(property "Value" "SPACE"
 			(at 227.33 133.35 0)
 			(effects
 				(font
@@ -41745,9 +41229,9 @@
 		(at 260.35 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4fb7d14d-9158-48a7-8dd7-1a5c22220946")
 		(property "Reference" "D24"
@@ -41846,7 +41330,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "X"
 			(at 196.85 113.03 0)
 			(effects
 				(font
@@ -41915,7 +41399,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1"
 			(at 186.69 64.7699 90)
 			(effects
 				(font
@@ -42090,7 +41574,7 @@
 				)
 			)
 		)
-		(property "Value" "P"
+		(property "Value" "D"
 			(at 212.09 92.71 0)
 			(effects
 				(font
@@ -42145,9 +41629,9 @@
 		(at 257.81 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "57289d55-d31e-4e41-b1ad-158f1759e796")
 		(property "Reference" "SW47"
@@ -42158,7 +41642,7 @@
 				)
 			)
 		)
-		(property "Value" "ARROW_U"
+		(property "Value" "NA"
 			(at 257.81 133.35 0)
 			(effects
 				(font
@@ -42226,7 +41710,7 @@
 				)
 			)
 		)
-		(property "Value" "I"
+		(property "Value" "A"
 			(at 181.61 92.71 0)
 			(effects
 				(font
@@ -42281,9 +41765,9 @@
 		(at 260.35 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5a379e48-f211-4deb-96be-217e018d9a91")
 		(property "Reference" "D46"
@@ -42295,7 +41779,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "NA"
 			(at 262.89 125.7299 90)
 			(effects
 				(font
@@ -42382,7 +41866,7 @@
 				)
 			)
 		)
-		(property "Value" "RET"
+		(property "Value" "B"
 			(at 242.57 113.03 0)
 			(effects
 				(font
@@ -42538,7 +42022,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "W"
 			(at 196.85 72.39 0)
 			(effects
 				(font
@@ -42606,7 +42090,7 @@
 				)
 			)
 		)
-		(property "Value" "+/="
+		(property "Value" "R"
 			(at 227.33 72.39 0)
 			(effects
 				(font
@@ -42674,7 +42158,7 @@
 				)
 			)
 		)
-		(property "Value" "F10"
+		(property "Value" "2"
 			(at 196.85 52.07 0)
 			(effects
 				(font
@@ -42742,7 +42226,7 @@
 				)
 			)
 		)
-		(property "Value" "9"
+		(property "Value" "Q"
 			(at 181.61 72.39 0)
 			(effects
 				(font
@@ -42797,9 +42281,9 @@
 		(at 260.35 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "67aff498-6021-464b-a60a-2b4feb72f71b")
 		(property "Reference" "D47"
@@ -42811,7 +42295,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "NA"
 			(at 262.89 146.0499 90)
 			(effects
 				(font
@@ -42885,9 +42369,9 @@
 		(at 257.81 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6a84557e-a08b-429e-ad59-b89e0a15b51c")
 		(property "Reference" "SW24"
@@ -42898,7 +42382,7 @@
 				)
 			)
 		)
-		(property "Value" "\\"
+		(property "Value" "NA"
 			(at 257.81 92.71 0)
 			(effects
 				(font
@@ -43142,7 +42626,7 @@
 				)
 			)
 		)
-		(property "Value" "."
+		(property "Value" "ALT"
 			(at 212.09 133.35 0)
 			(effects
 				(font
@@ -43211,7 +42695,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "4"
 			(at 232.41 64.7699 90)
 			(effects
 				(font
@@ -43282,142 +42766,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 257.81 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7f193d43-dea0-417e-a823-e3d9a8ff9cfc")
-		(property "Reference" "SW48"
-			(at 257.81 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ARROW_R"
-			(at 257.81 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 257.81 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 257.81 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e29a2941-3b03-47f3-8f28-4ab6d57b2a7c")
-		)
-		(pin "1"
-			(uuid "8bcd3b71-a3f1-4ad7-bf16-ad5c67dcea76")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 166.37 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8208d75c-566b-4f31-a587-9b5301fa923e")
-		(property "Reference" "SW30"
-			(at 166.37 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_ALT"
-			(at 166.37 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 166.37 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 166.37 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fb3e42fc-c45a-4081-81c9-a45449d22894")
-		)
-		(pin "1"
-			(uuid "afeb77ec-9b2a-41d8-aefd-7b20afc9f7c0")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 151.13 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43434,7 +42782,7 @@
 				)
 			)
 		)
-		(property "Value" "F7"
+		(property "Value" "ESC"
 			(at 151.13 52.07 0)
 			(effects
 				(font
@@ -43485,162 +42833,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 227.33 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83621e24-c7ea-47ec-85e7-9c7ec45054ab")
-		(property "Reference" "SW42"
-			(at 227.33 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ARROW_L"
-			(at 227.33 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 227.33 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 227.33 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7f3a2f4c-1bb0-428b-b21f-3ff057629867")
-		)
-		(pin "1"
-			(uuid "7b22c26b-f3a6-4f26-aa54-626417cdc689")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 260.35 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84b87ad5-b8d8-4646-b304-da14612543a9")
-		(property "Reference" "D48"
-			(at 262.89 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 262.89 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 260.35 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 260.35 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 260.35 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 260.35 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4bbc2ac4-3bb8-49f0-9d28-eeb7f794351d")
-		)
-		(pin "1"
-			(uuid "703f9674-6868-4934-afae-872f4d74ef43")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 214.63 63.5 90)
 		(unit 1)
@@ -43659,7 +42851,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "3"
 			(at 217.17 64.7699 90)
 			(effects
 				(font
@@ -43733,9 +42925,9 @@
 		(at 257.81 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "868a33da-757a-40f0-9fb4-fa5c0279229c")
 		(property "Reference" "SW16"
@@ -43746,7 +42938,7 @@
 				)
 			)
 		)
-		(property "Value" "PAGE_DOWN"
+		(property "Value" "NA"
 			(at 257.81 72.39 0)
 			(effects
 				(font
@@ -43886,74 +43078,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 242.57 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d217d62-a29a-459f-8c7e-a977c1842674")
-		(property "Reference" "SW45"
-			(at 242.57 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ARROW_D"
-			(at 242.57 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 242.57 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 242.57 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 242.57 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "36c50f9b-3393-47e4-89c2-60a629aa9402")
-		)
-		(pin "1"
-			(uuid "917a2ba2-2522-4888-8426-c8d97ff7641b")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 257.81 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43970,7 +43094,7 @@
 				)
 			)
 		)
-		(property "Value" "PAGE_UP"
+		(property "Value" "6"
 			(at 257.81 52.07 0)
 			(effects
 				(font
@@ -44038,7 +43162,7 @@
 				)
 			)
 		)
-		(property "Value" "F9"
+		(property "Value" "1"
 			(at 181.61 52.07 0)
 			(effects
 				(font
@@ -44106,7 +43230,7 @@
 				)
 			)
 		)
-		(property "Value" "J"
+		(property "Value" "SHIFT"
 			(at 166.37 113.03 0)
 			(effects
 				(font
@@ -44158,74 +43282,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 151.13 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94628267-4eda-402a-8f87-c2566aa6cf5f")
-		(property "Reference" "SW27"
-			(at 151.13 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Space"
-			(at 151.13 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.75u"
-			(at 151.13 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 151.13 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7acda44a-1293-4f30-8be5-94becdd33766")
-		)
-		(pin "1"
-			(uuid "588e9e75-19b1-49b8-9394-120b5b6258b2")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 212.09 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44242,7 +43298,7 @@
 				)
 			)
 		)
-		(property "Value" ";"
+		(property "Value" "C"
 			(at 212.09 113.03 0)
 			(effects
 				(font
@@ -44311,7 +43367,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "6"
 			(at 262.89 64.7699 90)
 			(effects
 				(font
@@ -44399,7 +43455,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "2"
 			(at 201.93 64.7699 90)
 			(effects
 				(font
@@ -44486,7 +43542,7 @@
 				)
 			)
 		)
-		(property "Value" "M"
+		(property "Value" "WIN"
 			(at 181.61 133.35 0)
 			(effects
 				(font
@@ -44707,94 +43763,6 @@
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
 					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 214.63 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae534c11-5448-4426-9451-ed490301129a")
-		(property "Reference" "D39"
-			(at 217.17 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 217.17 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 214.63 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 214.63 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 214.63 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 214.63 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 214.63 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "58d7ae96-023c-4e53-801c-082ea5d59099")
-		)
-		(pin "1"
-			(uuid "b2dab911-4f23-4751-9ad6-5f088dc7a934")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -45065,94 +44033,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 168.91 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b628f10f-8fa8-4531-bba0-6c8d408f19d5")
-		(property "Reference" "D30"
-			(at 171.45 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 171.45 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 168.91 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 168.91 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 168.91 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 168.91 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 168.91 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8961b128-d83b-46dd-a79b-e05e6e061cc5")
-		)
-		(pin "1"
-			(uuid "fe20fd32-d2d1-4f83-b0c8-de1c0dfa75ee")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 242.57 97.79 0)
 		(unit 1)
@@ -45170,7 +44050,7 @@
 				)
 			)
 		)
-		(property "Value" "]"
+		(property "Value" "G"
 			(at 242.57 92.71 0)
 			(effects
 				(font
@@ -45326,7 +44206,7 @@
 				)
 			)
 		)
-		(property "Value" "B"
+		(property "Value" "M3"
 			(at 151.13 133.35 0)
 			(effects
 				(font
@@ -45465,74 +44345,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 196.85 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c424e977-bae5-4fef-a938-a812201e5d3d")
-		(property "Reference" "SW36"
-			(at 196.85 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_FCT"
-			(at 196.85 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 196.85 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 196.85 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bd264a1c-d0a4-4f89-8460-816543d4f4aa")
-		)
-		(pin "1"
-			(uuid "dd4b545c-f61c-4d4d-aa69-e96db62a5932")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 153.67 63.5 90)
 		(unit 1)
@@ -45551,7 +44363,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "ESC"
 			(at 156.21 64.7699 90)
 			(effects
 				(font
@@ -45638,7 +44450,7 @@
 				)
 			)
 		)
-		(property "Value" "K"
+		(property "Value" "Z"
 			(at 181.61 113.03 0)
 			(effects
 				(font
@@ -45794,7 +44606,7 @@
 				)
 			)
 		)
-		(property "Value" "F11"
+		(property "Value" "3"
 			(at 212.09 52.07 0)
 			(effects
 				(font
@@ -45862,7 +44674,7 @@
 				)
 			)
 		)
-		(property "Value" ","
+		(property "Value" "FN"
 			(at 196.85 133.35 0)
 			(effects
 				(font
@@ -45907,94 +44719,6 @@
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
 					(reference "SW35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 153.67 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d0fe69ae-a326-4694-9f33-c0201d4e6958")
-		(property "Reference" "D27"
-			(at 156.21 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 156.21 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 153.67 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 153.67 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 153.67 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 153.67 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 153.67 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f80c5e53-131f-476b-b459-73d2006de5c9")
-		)
-		(pin "1"
-			(uuid "dd3152ae-2188-4709-93dc-1f07e1a72d93")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -46089,94 +44813,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 245.11 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d43290b5-a923-49a3-be68-6a4e29766d2c")
-		(property "Reference" "D45"
-			(at 247.65 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 247.65 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 245.11 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "12545057-1f59-4861-b7f2-4ba87fef4ee2")
-		)
-		(pin "1"
-			(uuid "7eccd3dd-b9f5-4aa5-8f06-7f41e0af5c6b")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 242.57 138.43 0)
 		(unit 1)
@@ -46193,7 +44829,7 @@
 				)
 			)
 		)
-		(property "Value" "R_SHIFT"
+		(property "Value" "DEL"
 			(at 243.84 133.858 0)
 			(effects
 				(font
@@ -46245,100 +44881,12 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 184.15 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d6927b21-02a8-4ead-b45f-06f479a38364")
-		(property "Reference" "D33"
-			(at 186.69 163.8299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 186.69 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
-			(at 184.15 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 184.15 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 184.15 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 184.15 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 184.15 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "23463e98-1c05-43c7-b8ab-facfd2cfe989")
-		)
-		(pin "1"
-			(uuid "8fe9d73d-ca41-4d8e-8a7d-456cd17869a4")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "D33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 260.35 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d913f3bd-ebbe-490f-b000-abd6a0b7537e")
 		(property "Reference" "D16"
@@ -46350,7 +44898,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "NA"
 			(at 262.89 85.0899 90)
 			(effects
 				(font
@@ -46525,7 +45073,7 @@
 				)
 			)
 		)
-		(property "Value" "F12"
+		(property "Value" "4"
 			(at 227.33 52.07 0)
 			(effects
 				(font
@@ -46770,7 +45318,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "~/`"
 			(at 171.45 64.7699 90)
 			(effects
 				(font
@@ -46857,7 +45405,7 @@
 				)
 			)
 		)
-		(property "Value" "O"
+		(property "Value" "S"
 			(at 196.85 92.71 0)
 			(effects
 				(font
@@ -47013,7 +45561,7 @@
 				)
 			)
 		)
-		(property "Value" "U"
+		(property "Value" "CAPS"
 			(at 166.37 92.71 0)
 			(effects
 				(font
@@ -47153,74 +45701,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 181.61 158.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fe587f00-365e-435f-9a1c-0ec2d0eb01ae")
-		(property "Reference" "SW33"
-			(at 181.61 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_WIN"
-			(at 181.61 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.61 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 181.61 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7cd467d8-659d-429c-aacb-2a3e2fe3b45c")
-		)
-		(pin "1"
-			(uuid "248c49c7-2be0-467a-bf37-98a78e7f538e")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/cf418548-ab3b-4316-9c47-168a81bd3af0"
-					(reference "SW33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 166.37 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47237,7 +45717,7 @@
 				)
 			)
 		)
-		(property "Value" "N"
+		(property "Value" "CTRL"
 			(at 166.37 133.35 0)
 			(effects
 				(font
