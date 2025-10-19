@@ -1129,7 +1129,7 @@
 	)
 	(text "LHS-CENTRAL KEYBOARD"
 		(exclude_from_sim no)
-		(at 282.702 55.626 0)
+		(at 212.09 34.036 0)
 		(effects
 			(font
 				(size 5.08 5.08)
