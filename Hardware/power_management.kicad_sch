@@ -5654,10 +5654,6 @@
 		)
 		(instances
 			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d"
-					(reference "#PWR?")
-					(unit 1)
-				)
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
 					(reference "#PWR0101")
 					(unit 1)
