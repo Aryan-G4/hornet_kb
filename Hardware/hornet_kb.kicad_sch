@@ -19321,8 +19321,8 @@
 		)
 	)
 	(sheet
-		(at 241.3 167.64)
-		(size 55.88 31.75)
+		(at 273.05 168.91)
+		(size 24.13 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -19337,7 +19337,7 @@
 		)
 		(uuid "20e65fb9-037d-41f9-856c-d800ba40b4b1")
 		(property "Sheetname" "Power Management"
-			(at 241.3 166.9284 0)
+			(at 273.05 168.1984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19346,7 +19346,7 @@
 			)
 		)
 		(property "Sheetfile" "power_management.kicad_sch"
-			(at 241.3 199.9746 0)
+			(at 273.05 199.9746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19363,13 +19363,12 @@
 		)
 	)
 	(sheet
-		(at 241.3 137.16)
-		(size 55.88 21.59)
+		(at 214.63 142.24)
+		(size 52.07 48.26)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -19379,7 +19378,7 @@
 		)
 		(uuid "cf418548-ab3b-4316-9c47-168a81bd3af0")
 		(property "Sheetname" "Button matrix"
-			(at 241.3 136.4484 0)
+			(at 214.63 194.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19388,12 +19387,142 @@
 			)
 		)
 		(property "Sheetfile" "key_matrix.kicad_sch"
-			(at 241.3 159.3346 0)
+			(at 214.63 191.0846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "COL_0" input
+			(at 224.79 142.24 90)
+			(uuid "73c59ef4-2b54-476a-a61b-5cc10b372684")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_1" input
+			(at 228.6 142.24 90)
+			(uuid "d58aa2ea-a75b-4914-b1ba-03aa798222f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_2" input
+			(at 232.41 142.24 90)
+			(uuid "ff69c79a-7a37-44ae-b4ed-5ff1d5e6a6ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_3" input
+			(at 236.22 142.24 90)
+			(uuid "12c324ed-917f-48f3-9fc4-604cf1c2a460")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_4" input
+			(at 240.03 142.24 90)
+			(uuid "fd0357f1-658d-432a-b348-623eb40ddba3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_5" input
+			(at 243.84 142.24 90)
+			(uuid "34f9ce76-7772-419d-8b9a-215e3da8e125")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_6" input
+			(at 247.65 142.24 90)
+			(uuid "e9858df2-20d7-4d7f-8b18-5342dcb06b35")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL_7" input
+			(at 251.46 142.24 90)
+			(uuid "c131494e-ab56-4bf0-8c1d-1e6230003e70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW_0" output
+			(at 214.63 166.37 180)
+			(uuid "ff7f0eb4-74f2-48ca-b986-c6ce87eebcca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ROW_1" output
+			(at 214.63 163.83 180)
+			(uuid "e87f3416-8d85-468a-9cc3-57b95ef75a5a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ROW_2" output
+			(at 214.63 161.29 180)
+			(uuid "3718e429-f1a7-4bcb-b193-104a7640d341")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ROW_3" output
+			(at 214.63 158.75 180)
+			(uuid "c2365387-112f-4ba9-bdf4-33510f7ebfd2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R_ROW_4" output
+			(at 214.63 156.21 180)
+			(uuid "321bf7d6-ce12-48a2-855a-99bf0d945cc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
