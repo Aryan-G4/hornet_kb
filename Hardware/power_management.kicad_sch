@@ -2841,6 +2841,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "should this AND the other TS\nbe connected to NTC??"
+		(exclude_from_sim no)
+		(at 133.604 134.112 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0a563c36-64ab-45fe-9cd1-bdf3b44d83ce")
+	)
 	(text "Rx Qi coil\n"
 		(exclude_from_sim no)
 		(at 60.198 141.224 0)
@@ -3025,6 +3035,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ec4e839-0ee2-49c3-8f13-12086fc7dac2")
+	)
+	(junction
+		(at 147.32 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67946d8b-b7f6-4e51-b285-d52be99c096c")
 	)
 	(junction
 		(at 81.28 76.2)
@@ -3346,7 +3362,7 @@
 	)
 	(polyline
 		(pts
-			(xy 191.77 132.08) (xy 204.47 132.08)
+			(xy 191.77 132.08) (xy 205.74 132.08)
 		)
 		(stroke
 			(width 0)
@@ -3363,16 +3379,6 @@
 			(type default)
 		)
 		(uuid "32a1f6ca-e440-4a9f-998c-a3c4194b8276")
-	)
-	(wire
-		(pts
-			(xy 147.32 143.51) (xy 147.32 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3585663f-df6e-4e68-a3a6-4a23d297065a")
 	)
 	(wire
 		(pts
@@ -3413,6 +3419,16 @@
 			(type default)
 		)
 		(uuid "3aedc865-f759-4150-81ec-1d2563f97be7")
+	)
+	(wire
+		(pts
+			(xy 147.32 143.51) (xy 147.32 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b88d2fd-1c2e-4c02-b829-f28c097fe2c6")
 	)
 	(wire
 		(pts
@@ -3624,16 +3640,6 @@
 		)
 		(uuid "67e03578-2416-4479-9de4-833f3ce46608")
 	)
-	(wire
-		(pts
-			(xy 121.92 135.89) (xy 124.46 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d216849-2275-4454-b23c-5bbf4dbe1cd5")
-	)
 	(polyline
 		(pts
 			(xy 191.77 124.46) (xy 191.77 132.08)
@@ -3706,6 +3712,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 140.97) (xy 147.32 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c48e678-904f-44a8-9782-c2334008ba90")
+	)
+	(wire
+		(pts
 			(xy 74.93 130.81) (xy 72.39 133.35)
 		)
 		(stroke
@@ -3713,16 +3729,6 @@
 			(type default)
 		)
 		(uuid "81fa42a6-c1a5-46bb-938f-d76e86ee9894")
-	)
-	(wire
-		(pts
-			(xy 121.92 135.89) (xy 121.92 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8303d6ae-645c-4245-97f6-a86d9f2d1b8a")
 	)
 	(wire
 		(pts
@@ -3816,7 +3822,7 @@
 	)
 	(polyline
 		(pts
-			(xy 204.47 124.46) (xy 204.47 132.08)
+			(xy 205.74 124.46) (xy 205.74 132.08)
 		)
 		(stroke
 			(width 0)
@@ -4156,7 +4162,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 140.97) (xy 121.92 140.97)
+			(xy 119.38 140.97) (xy 147.32 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4206,7 +4212,7 @@
 	)
 	(polyline
 		(pts
-			(xy 191.77 124.46) (xy 204.47 124.46)
+			(xy 191.77 124.46) (xy 205.74 124.46)
 		)
 		(stroke
 			(width 0)
@@ -8109,7 +8115,7 @@
 		)
 	)
 	(label "BATT_NTC"
-		(at 177.8 133.35 90)
+		(at 177.8 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8338,72 +8344,6 @@
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
 					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 124.46 135.89 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "067ea090-a0a7-40a3-a41f-5709eb9c4b7b")
-		(property "Reference" "#PWR027"
-			(at 130.81 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 123.698 134.874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 124.46 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 124.46 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d3dcf18f-08b6-45ab-a934-5a2ee34145e6")
-		)
-		(instances
-			(project "hornet_kb"
-				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
-					(reference "#PWR027")
 					(unit 1)
 				)
 			)
