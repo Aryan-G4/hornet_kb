@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "f7fca1a3-a9bc-46dd-9e49-0f3ed9603f77")
 	(paper "A3")
+	(title_block
+		(title "Hornet Wireless Split Keyboard")
+		(date "2025-10-05")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Device:D"
 			(pin_numbers
