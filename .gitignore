@@ -52,7 +52,6 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-/build
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -73,8 +72,3 @@ fp-info-cache
 *.log
 *.raw
 .svg2shenzhen-cache
-
-Hardware/\#auto_saved_files#
-Hardware/\#auto_saved_files\#
-Hardware/hornet_kb-backups/
-hornet_kb-backups/
