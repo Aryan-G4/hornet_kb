@@ -19217,7 +19217,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
 			(at 52.07 180.34 0)
 			(effects
 				(font
@@ -20115,7 +20115,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 135.89 71.12 0)
 			(effects
 				(font
@@ -21590,7 +21590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 127 62.23 0)
 			(effects
 				(font
