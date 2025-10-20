@@ -2966,16 +2966,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "should this AND the other TS\nbe connected to NTC??"
-		(exclude_from_sim no)
-		(at 133.604 134.112 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0a563c36-64ab-45fe-9cd1-bdf3b44d83ce")
-	)
 	(text "Rx Qi coil\n"
 		(exclude_from_sim no)
 		(at 60.198 141.224 0)
@@ -3198,6 +3188,12 @@
 		(uuid "8687fe38-47f8-4f65-a7e6-3fd616741cc2")
 	)
 	(junction
+		(at 185.42 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9521de02-f649-4dbe-ab7d-49d1662bcbf8")
+	)
+	(junction
 		(at 74.93 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3280,6 +3276,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9969abe-a360-490e-a4ee-8fae3a0e9fb9")
+	)
+	(junction
+		(at 168.91 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebc78490-d49f-4ec4-b82d-4d67d709d9f2")
 	)
 	(junction
 		(at 83.82 135.89)
@@ -4459,7 +4461,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 128.27) (xy 185.42 128.27)
+			(xy 168.91 128.27) (xy 185.42 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9214,6 +9216,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 185.42 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ac05212-9659-49f8-bceb-6452ef9394ca")
+		(property "Reference" "#FLG05"
+			(at 183.515 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 181.61 125.7299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 185.42 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e42fc22e-8df3-4b60-b01b-101742c1867f")
+		)
+		(instances
+			(project ""
+				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
+					(reference "#FLG05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 106.68 160.02 0)
 		(mirror y)
@@ -10313,6 +10382,73 @@
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 168.91 128.27 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a34b553-d7e5-4ab0-95b2-c9aa1f88abd1")
+		(property "Reference" "#FLG07"
+			(at 167.005 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 165.1 128.2699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 168.91 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 168.91 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 168.91 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9620ea11-e907-4fd6-9267-b3be6fc4e8d2")
+		)
+		(instances
+			(project "hornet_kb"
+				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
+					(reference "#FLG07")
 					(unit 1)
 				)
 			)
@@ -11625,7 +11761,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 172.72 128.27 0)
+		(at 168.91 128.27 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11634,7 +11770,7 @@
 		(dnp no)
 		(uuid "f4b8f001-d7e3-48d6-99e1-c270e5511dcf")
 		(property "Reference" "#PWR013"
-			(at 172.72 134.62 0)
+			(at 168.91 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11643,7 +11779,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 172.974 133.096 0)
+			(at 169.164 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11651,7 +11787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 128.27 0)
+			(at 168.91 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11660,7 +11796,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 128.27 0)
+			(at 168.91 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11669,7 +11805,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 172.72 128.27 0)
+			(at 168.91 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
