@@ -2976,17 +2976,6 @@
 		)
 		(uuid "12c22ada-f80b-413a-9ee2-48c42c900132")
 	)
-	(text "Note for Sam:\ncan you look into using this part or something like it for USB?\nhttps://www.ti.com/lit/ds/symlink/bq24075.pdf?ts=1760737644899&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ24075\n\nWould this be a better part instead of the bq24040? "
-		(exclude_from_sim no)
-		(at 13.716 47.244 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "161a4ddf-3629-4814-a1fb-b67ed3e37b3a")
-	)
 	(text "The power system works as follows:\n- The Qi rx coil will recieve ~15W (as per Qi WPC 1.2 Standard) \nof power which will then be used to power the battery.\n- The USBC connector has its own regulator to charge the Battery aswell\n- If both the USBC connector and wireless charging are connected at the same time, the USBC connector will \nDISABLE wireless charging and will charge the battery alone\n- once the USBC is removed, wireless charging may resume.\n- LEDs are in place to indicate which type of charging is being used\n"
 		(exclude_from_sim no)
 		(at 14.986 26.162 0)

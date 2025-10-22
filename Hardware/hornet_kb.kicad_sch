@@ -4414,14 +4414,14 @@
 		)
 		(uuid "7c5851c0-3a68-46fb-ba10-30b0c2e29aa0")
 	)
-	(text "Raw battery \noutput"
+	(text "Raw battery\noutput"
 		(exclude_from_sim no)
-		(at 121.666 26.416 0)
+		(at 116.332 26.162 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "9b74d097-013a-41c2-956b-9519743867e9")
 	)
@@ -4444,6 +4444,17 @@
 			)
 		)
 		(uuid "b05e69e0-4b2f-4656-bda2-95262fdaeee0")
+	)
+	(text "stable 3V3 output by \nnrf's built-in LDO"
+		(exclude_from_sim no)
+		(at 149.352 37.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4369e33-2f05-4640-aa47-d622ce560bc7")
 	)
 	(text "reset either by physical button or STLINK"
 		(exclude_from_sim no)
@@ -21879,8 +21890,8 @@
 		(at 39.37 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp no)
 		(uuid "a41712f3-17c6-4752-af69-455debdc6b6a")
 		(property "Reference" "AE1"
