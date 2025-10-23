@@ -3615,6 +3615,12 @@
 		(uuid "75701100-2db8-46b0-b28e-663bb6c935b6")
 	)
 	(junction
+		(at 209.55 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ae276f0-9d1d-41b1-85cd-40f63a055684")
+	)
+	(junction
 		(at 227.33 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3691,12 +3697,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6b5bf39-c743-45cf-b8a8-7ad8e5484361")
-	)
-	(junction
-		(at 210.82 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cdefce03-2398-4b80-803d-777572bdd100")
 	)
 	(junction
 		(at 130.81 146.05)
@@ -4476,6 +4476,16 @@
 		)
 		(uuid "9701636c-b583-4966-b39a-838d33d1ebb0")
 	)
+	(wire
+		(pts
+			(xy 209.55 143.51) (xy 212.09 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "970cc93e-29fe-4595-80db-c285657f9d4e")
+	)
 	(polyline
 		(pts
 			(xy 217.17 114.3) (xy 217.17 121.92)
@@ -4628,7 +4638,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 146.05) (xy 205.74 156.21)
+			(xy 204.47 146.05) (xy 204.47 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4655,16 +4665,6 @@
 			(type default)
 		)
 		(uuid "b6bdf982-6c3b-46f9-a80a-3ab9dd3093b8")
-	)
-	(wire
-		(pts
-			(xy 210.82 143.51) (xy 212.09 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bab27bf2-b8be-4ddd-a7fc-830243e0a5a9")
 	)
 	(wire
 		(pts
@@ -4738,7 +4738,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 143.51) (xy 210.82 146.05)
+			(xy 209.55 143.51) (xy 209.55 146.05)
 		)
 		(stroke
 			(width 0)
@@ -4858,7 +4858,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 156.21) (xy 222.25 156.21)
+			(xy 204.47 156.21) (xy 222.25 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4918,7 +4918,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 143.51) (xy 210.82 143.51)
+			(xy 204.47 143.51) (xy 209.55 143.51)
 		)
 		(stroke
 			(width 0)
@@ -9299,7 +9299,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 208.28 146.05 270)
+		(at 207.01 146.05 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9307,7 +9307,7 @@
 		(dnp no)
 		(uuid "122d45ad-1f62-4726-8352-db634dd817d5")
 		(property "Reference" "R17"
-			(at 200.152 147.32 90)
+			(at 201.93 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9315,7 +9315,7 @@
 			)
 		)
 		(property "Value" "20k"
-			(at 203.962 147.32 90)
+			(at 210.566 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9323,7 +9323,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 208.28 146.05 0)
+			(at 207.01 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9332,7 +9332,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 146.05 0)
+			(at 207.01 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9341,7 +9341,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 208.28 146.05 0)
+			(at 207.01 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
