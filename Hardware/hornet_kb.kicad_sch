@@ -4403,7 +4403,7 @@
 		)
 		(uuid "4e355b45-225d-46f7-ba68-0fe51990ac6e")
 	)
-	(text "Reorganize based on \nphysical pin allocation \nconvenience"
+	(text "Reorganizing based on \nphysical pin allocation \nconvenience"
 		(exclude_from_sim no)
 		(at 171.196 148.59 0)
 		(effects
@@ -21472,7 +21472,7 @@
 		(dnp no)
 		(uuid "863b8cb1-7ee5-45a5-9a00-6cf2053b49d0")
 		(property "Reference" "C32"
-			(at 57.658 46.482 0)
+			(at 60.198 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21481,7 +21481,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 57.658 50.292 0)
+			(at 59.944 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21605,7 +21605,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8bec9bfc-008c-468d-a095-191fa7a75f18")
 		(property "Reference" "#PWR027"
 			(at 57.15 48.26 0)
@@ -21617,7 +21616,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 57.15 39.37 0)
+			(at 57.658 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21809,7 +21808,7 @@
 		(dnp no)
 		(uuid "9305dd78-5c17-490e-9341-e53df3298de9")
 		(property "Reference" "C26"
-			(at 40.386 46.228 0)
+			(at 40.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21818,7 +21817,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 39.37 50.546 0)
+			(at 40.386 42.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22452,7 +22451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm"
 			(at 82.55 142.24 0)
 			(effects
 				(font
@@ -22472,6 +22471,15 @@
 		)
 		(property "Description" "Two pin crystal"
 			(at 82.55 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C48332760"
+			(at 82.55 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22642,7 +22650,7 @@
 		(dnp no)
 		(uuid "c0fc644a-fef7-4b25-94cc-0fff761a1024")
 		(property "Reference" "C31"
-			(at 50.8 46.736 0)
+			(at 51.562 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22651,7 +22659,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 53.086 50.292 0)
+			(at 54.102 42.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22782,7 +22790,7 @@
 		(dnp no)
 		(uuid "ceebc9a0-4d8b-41ac-9bb3-db033e539e3e")
 		(property "Reference" "C11"
-			(at 31.75 46.228 0)
+			(at 34.036 40.386 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22791,7 +22799,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 32.258 50.292 0)
+			(at 33.274 42.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22986,7 +22994,7 @@
 		(dnp no)
 		(uuid "d7cb8897-4855-43fc-8b17-5506e1896708")
 		(property "Reference" "C33"
-			(at 27.432 46.482 0)
+			(at 29.21 40.386 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22995,7 +23003,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 26.924 50.546 0)
+			(at 30.734 42.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
