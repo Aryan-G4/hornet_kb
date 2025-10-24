@@ -444,7 +444,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -7.62 -6.35 90)
 				(length 2.54)
 				(name "GND"
@@ -454,7 +454,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -462,7 +462,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -5.08 -6.35 90)
 				(length 2.54)
 				(name "ANT"
@@ -472,7 +472,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
