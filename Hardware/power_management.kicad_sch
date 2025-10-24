@@ -9401,7 +9401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 236.22 151.13 0)
 			(effects
 				(font

@@ -9,6 +9,9 @@
 		(date "2025-10-05")
 		(rev "1")
 		(company "Aryan & Friends :D")
+		(comment 1 "This schematic is for the LEFT hand split of the hornet keyboard")
+		(comment 2 "Wireless Charging & communication, split design, ")
+		(comment 3 "USB connectivity, macrokeys, hotswap sockets")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_ST_STDC14"
@@ -18766,28 +18769,6 @@
 		)
 		(uuid "fda45c13-bf9f-433a-bdf8-92d33c683487")
 	)
-	(global_label "NRF_ANTENNA"
-		(shape input)
-		(at 35.56 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2ac7c9ef-e72e-4fb8-b6c6-35842ca0120a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.6328 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 52.07 185.42 0)
@@ -21848,8 +21829,8 @@
 		(at 39.37 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
+		(in_bom yes)
+		(on_board yes)
 		(dnp no)
 		(uuid "a41712f3-17c6-4752-af69-455debdc6b6a")
 		(property "Reference" "AE1"
@@ -21870,7 +21851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Antenna_FP:Texas_SWRA117D_2.4GHz_Right"
 			(at 39.37 91.44 0)
 			(effects
 				(font
