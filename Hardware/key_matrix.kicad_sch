@@ -8,6 +8,7 @@
 		(title "Hornet Wireless Split Keyboard")
 		(date "2025-10-05")
 		(rev "1")
+		(comment 1 "This is the keymatrix solely for the left hand as shown on the boxed image")
 	)
 	(lib_symbols
 		(symbol "Device:D"
@@ -1139,7 +1140,7 @@
 	)
 	(text "Taking inspiration from the shown figures."
 		(exclude_from_sim no)
-		(at 322.58 265.43 0)
+		(at 137.414 239.268 0)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -4106,17 +4106,6 @@
 		)
 		(uuid 898cae4c-3bbc-44b7-b0dc-62f47a92b501)
 	)
-	(text "- GND1 and VDD1 both Refer to the \"primary\" or \"central\" keyboard \npcb of the two, aka the right hand side\n- GND2 and VDD2 refer to the \"secondary\" keyboard PCB,\naka the left hand side"
-		(exclude_from_sim no)
-		(at 202.438 214.122 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4e355b45-225d-46f7-ba68-0fe51990ac6e")
-	)
 	(text "Reorganizing based on \nphysical pin allocation \nconvenience"
 		(exclude_from_sim no)
 		(at 171.196 148.59 0)
@@ -4639,7 +4628,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 218.44) (xy 130.81 218.44)
+			(xy 140.97 218.44) (xy 130.81 218.44)
 		)
 		(stroke
 			(width 0)
@@ -18777,28 +18766,6 @@
 		)
 		(uuid "fda45c13-bf9f-433a-bdf8-92d33c683487")
 	)
-	(global_label "VSS_pa"
-		(shape input)
-		(at 139.7 218.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "264f8da3-25d8-41a6-8c42-3cb244bd52a2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.4584 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NRF_ANTENNA"
 		(shape input)
 		(at 35.56 96.52 180)
@@ -18812,28 +18779,6 @@
 		(uuid "2ac7c9ef-e72e-4fb8-b6c6-35842ca0120a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 19.6328 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VSS_pa"
-		(shape input)
-		(at 78.74 104.14 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "51cf9881-7773-4011-ba90-d4048e4cb9e8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.74 113.8984 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19105,6 +19050,72 @@
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 78.74 104.14 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ddadc69-0702-456b-b092-ab3dbe6a46af")
+		(property "Reference" "#PWR046"
+			(at 78.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VSS_PA"
+			(at 78.994 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 78.74 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3285f496-8483-47c6-96cd-22a5b2889c2d")
+		)
+		(instances
+			(project "hornet_kb"
+				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -20866,6 +20877,72 @@
 			(project "hornet_kb"
 				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 140.97 218.44 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a79a648-ce8d-4029-bede-0ccd5ee44115")
+		(property "Reference" "#PWR045"
+			(at 140.97 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VSS_PA"
+			(at 141.224 223.266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 140.97 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 140.97 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ccdb741-4a50-4ffd-a193-1b76e3f5da32")
+		)
+		(instances
+			(project "hornet_kb"
+				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
