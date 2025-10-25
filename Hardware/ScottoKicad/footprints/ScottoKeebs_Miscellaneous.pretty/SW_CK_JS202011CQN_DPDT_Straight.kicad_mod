@@ -1,0 +1,177 @@
+(footprint "SW_CK_JS202011CQN_DPDT_Straight"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf")
+	(tags "switch DPDT")
+	(property "Reference" "SW27"
+		(at 5.1 -5.4 0)
+		(layer "F.SilkS")
+		(uuid "51044281-2dde-4de0-a2ce-56dfedd7d607")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SM00210ZNR-LCSC:C1788494"
+		(at 4.9 7.8 0)
+		(layer "F.Fab")
+		(uuid "189f0c05-89d3-4728-acd8-57021d2b9ca8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at -0.1 -0.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ec15e9d-fd82-4983-ae79-6f5467caea66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Switch, dual pole double throw, separate symbols"
+		(at -0.1 -0.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4f32fe5-51e8-44c9-8945-64d75131d512")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.025001 -1.319999)
+		(end -0.374998 -1.320001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f64862c8-8ccd-4966-8233-13ca72cdbda4")
+	)
+	(fp_line
+		(start 11.9 0.199999)
+		(end 11.899999 4.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8fcf3989-777e-49c1-8a86-183518b52401")
+	)
+	(fp_poly
+		(pts
+			(xy -2.2 -1.4) (xy -2.680002 -1.399999) (xy -2.2 -1.88) (xy -2.2 -1.4)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "a4af93ce-8ae4-43e4-a195-8cb53ea82d0f")
+	)
+	(fp_rect
+		(start -1.9 -4.3)
+		(end 11.2 8.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2ba25c01-0337-4c32-a375-6dd06556804d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4.6 9.5 0)
+		(layer "F.Fab")
+		(uuid "e8ee05d9-d34c-4c61-90f9-54f70ca671f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 3 2)
+		(drill oval 2.4 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1785714286)
+		(uuid "db168bc7-adf4-4cfe-a12e-2e06f0efa0d5")
+	)
+	(pad "2" thru_hole roundrect
+		(at 4.7 0)
+		(size 3 2)
+		(drill oval 2.4 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1785714286)
+		(uuid "41df0dcc-0ffc-406d-9b26-ae10b9114129")
+	)
+	(pad "3" thru_hole roundrect
+		(at 9.4 0)
+		(size 3 2)
+		(drill oval 2.4 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1785714286)
+		(uuid "36f39062-6659-40ae-8388-34508daf3037")
+	)
+	(pad "4" thru_hole roundrect
+		(at 0 4.8)
+		(size 3 2)
+		(drill oval 2.4 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1785714286)
+		(uuid "159016f1-bc00-4574-9790-25da5c341322")
+	)
+	(pad "5" thru_hole roundrect
+		(at 4.7 4.8)
+		(size 3 2)
+		(drill oval 2.4 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1785714286)
+		(uuid "6c01a8a8-dd42-47d3-a1ff-dff8c99cca84")
+	)
+	(pad "6" thru_hole roundrect
+		(at 9.4 4.8)
+		(size 3 2)
+		(drill oval 2.4 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1785714286)
+		(uuid "3edf211c-9a16-4b07-ae59-1ed3917dae8e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CK_JS202011CQN_DPDT_Straight.step"
+		(offset
+			(xyz -0.1 0.7 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

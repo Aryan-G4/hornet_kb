@@ -3635,6 +3635,12 @@
 		(uuid "8687fe38-47f8-4f65-a7e6-3fd616741cc2")
 	)
 	(junction
+		(at 220.98 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88b0183d-c856-45b8-b0f0-d5fdbc1df235")
+	)
+	(junction
 		(at 196.85 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3741,6 +3747,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5d87be2-205e-4f45-8488-d9224dba42a7")
+	)
+	(junction
+		(at 245.11 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc9c4bcd-17e1-4df9-b761-c0a9f08da232")
 	)
 	(junction
 		(at 256.54 110.49)
@@ -3874,7 +3886,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 110.49) (xy 226.06 110.49)
+			(xy 198.12 110.49) (xy 220.98 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3984,6 +3996,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 128.27) (xy 245.11 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fbc55c7-c6a7-4228-a378-102bf8eeb9b4")
+	)
+	(wire
+		(pts
 			(xy 80.01 130.81) (xy 74.93 130.81)
 		)
 		(stroke
@@ -4084,7 +4106,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 110.49) (xy 246.38 110.49)
+			(xy 238.76 110.49) (xy 245.11 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4111,6 +4133,16 @@
 			(type default)
 		)
 		(uuid "4b3e1c14-c9b6-4235-8eae-f5502c8caa54")
+	)
+	(wire
+		(pts
+			(xy 229.87 128.27) (xy 220.98 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cd47918-dd66-4f3e-9192-b5023d983dee")
 	)
 	(wire
 		(pts
@@ -4544,6 +4576,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 110.49) (xy 246.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a318fa92-8f69-4ac0-bd4d-18aca2d30845")
+	)
+	(wire
+		(pts
 			(xy 90.17 142.24) (xy 90.17 146.05)
 		)
 		(stroke
@@ -4804,6 +4846,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 128.27) (xy 220.98 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9392a22-8e59-4465-a1b9-55d3701551cc")
+	)
+	(wire
+		(pts
 			(xy 119.38 130.81) (xy 121.92 130.81)
 		)
 		(stroke
@@ -4831,6 +4883,16 @@
 			(type default)
 		)
 		(uuid "dd668a3c-71f9-49df-a515-11af08d76740")
+	)
+	(wire
+		(pts
+			(xy 220.98 110.49) (xy 226.06 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddb3afbb-5e25-4774-81a4-c35c15af0321")
 	)
 	(wire
 		(pts
@@ -4941,6 +5003,16 @@
 			(type default)
 		)
 		(uuid "f1b1ac28-3971-49cc-b36f-7165071f31c5")
+	)
+	(wire
+		(pts
+			(xy 245.11 128.27) (xy 245.11 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f261f54c-63d4-46db-9ec3-5c0fabe77154")
 	)
 	(wire
 		(pts
@@ -7759,6 +7831,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 233.68 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "252d9d22-db5f-4a26-9557-1b5e2abc52a2")
+		(property "Reference" "JP4"
+			(at 228.854 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PWR_SWITCH"
+			(at 235.458 130.048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 233.68 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 233.68 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 233.68 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf4ec1d2-7167-4d53-8731-1fc01d0aba55")
+		)
+		(pin "2"
+			(uuid "247a6c1d-6e84-4643-a892-c580669b6796")
+		)
+		(instances
+			(project "hornet_kb"
+				(path "/c35084ab-104c-4a4c-9388-a839989b8e3d/20e65fb9-037d-41f9-856c-d800ba40b4b1"
+					(reference "JP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 222.25 156.21 0)
 		(mirror y)
@@ -8517,7 +8658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_CK_JS202011CQN_DPDT_Straight"
+		(property "Footprint" "ScottoKeebs_Miscellaneous:SW_CK_JS202011CQN_DPDT_Straight"
 			(at 233.68 114.3 0)
 			(effects
 				(font
@@ -10919,7 +11060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_CK_JS202011CQN_DPDT_Straight"
+		(property "Footprint" "ScottoKeebs_Miscellaneous:SW_CK_JS202011CQN_DPDT_Straight"
 			(at 233.68 105.41 0)
 			(effects
 				(font
